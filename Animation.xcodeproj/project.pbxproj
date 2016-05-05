@@ -12,6 +12,27 @@
 		FA8F87B01C446D890095DEC7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA8F87AE1C446D890095DEC7 /* Main.storyboard */; };
 		FA8F87B21C446D890095DEC7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA8F87B11C446D890095DEC7 /* Assets.xcassets */; };
 		FA8F87B51C446D890095DEC7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA8F87B31C446D890095DEC7 /* LaunchScreen.storyboard */; };
+		FA8F87DC1C4475D10095DEC7 /* yellow-ranger-15.png in Resources */ = {isa = PBXBuildFile; fileRef = FA8F87C71C4475D10095DEC7 /* yellow-ranger-15.png */; };
+		FA8F87DD1C4475D10095DEC7 /* yellow-ranger-16.png in Resources */ = {isa = PBXBuildFile; fileRef = FA8F87C81C4475D10095DEC7 /* yellow-ranger-16.png */; };
+		FA8F87DE1C4475D10095DEC7 /* yellow-ranger-8.png in Resources */ = {isa = PBXBuildFile; fileRef = FA8F87C91C4475D10095DEC7 /* yellow-ranger-8.png */; };
+		FA8F87DF1C4475D10095DEC7 /* yellow-ranger-9.png in Resources */ = {isa = PBXBuildFile; fileRef = FA8F87CA1C4475D10095DEC7 /* yellow-ranger-9.png */; };
+		FA8F87E01C4475D10095DEC7 /* yellow-ranger-10.png in Resources */ = {isa = PBXBuildFile; fileRef = FA8F87CB1C4475D10095DEC7 /* yellow-ranger-10.png */; };
+		FA8F87E11C4475D10095DEC7 /* yellow-ranger-17.png in Resources */ = {isa = PBXBuildFile; fileRef = FA8F87CC1C4475D10095DEC7 /* yellow-ranger-17.png */; };
+		FA8F87E21C4475D10095DEC7 /* yellow-ranger-11.png in Resources */ = {isa = PBXBuildFile; fileRef = FA8F87CD1C4475D10095DEC7 /* yellow-ranger-11.png */; };
+		FA8F87E31C4475D10095DEC7 /* yellow-ranger-18.png in Resources */ = {isa = PBXBuildFile; fileRef = FA8F87CE1C4475D10095DEC7 /* yellow-ranger-18.png */; };
+		FA8F87E41C4475D10095DEC7 /* yellow-ranger-12.png in Resources */ = {isa = PBXBuildFile; fileRef = FA8F87CF1C4475D10095DEC7 /* yellow-ranger-12.png */; };
+		FA8F87E51C4475D10095DEC7 /* yellow-ranger-19.png in Resources */ = {isa = PBXBuildFile; fileRef = FA8F87D01C4475D10095DEC7 /* yellow-ranger-19.png */; };
+		FA8F87E61C4475D10095DEC7 /* yellow-ranger-13.png in Resources */ = {isa = PBXBuildFile; fileRef = FA8F87D11C4475D10095DEC7 /* yellow-ranger-13.png */; };
+		FA8F87E71C4475D10095DEC7 /* yellow-ranger-20.png in Resources */ = {isa = PBXBuildFile; fileRef = FA8F87D21C4475D10095DEC7 /* yellow-ranger-20.png */; };
+		FA8F87E81C4475D10095DEC7 /* yellow-ranger-1.png in Resources */ = {isa = PBXBuildFile; fileRef = FA8F87D31C4475D10095DEC7 /* yellow-ranger-1.png */; };
+		FA8F87E91C4475D10095DEC7 /* yellow-ranger-2.png in Resources */ = {isa = PBXBuildFile; fileRef = FA8F87D41C4475D10095DEC7 /* yellow-ranger-2.png */; };
+		FA8F87EA1C4475D10095DEC7 /* yellow-ranger-3.png in Resources */ = {isa = PBXBuildFile; fileRef = FA8F87D51C4475D10095DEC7 /* yellow-ranger-3.png */; };
+		FA8F87EB1C4475D10095DEC7 /* yellow-ranger-4.png in Resources */ = {isa = PBXBuildFile; fileRef = FA8F87D61C4475D10095DEC7 /* yellow-ranger-4.png */; };
+		FA8F87EC1C4475D10095DEC7 /* yellow-ranger-5.png in Resources */ = {isa = PBXBuildFile; fileRef = FA8F87D71C4475D10095DEC7 /* yellow-ranger-5.png */; };
+		FA8F87ED1C4475D10095DEC7 /* yellow-ranger-6.png in Resources */ = {isa = PBXBuildFile; fileRef = FA8F87D81C4475D10095DEC7 /* yellow-ranger-6.png */; };
+		FA8F87EE1C4475D10095DEC7 /* yellow-ranger-7.png in Resources */ = {isa = PBXBuildFile; fileRef = FA8F87D91C4475D10095DEC7 /* yellow-ranger-7.png */; };
+		FA8F87EF1C4475D10095DEC7 /* yellow-ranger-14.png in Resources */ = {isa = PBXBuildFile; fileRef = FA8F87DA1C4475D10095DEC7 /* yellow-ranger-14.png */; };
+		FA8F87F01C4475D10095DEC7 /* yellow-ranger-21.png in Resources */ = {isa = PBXBuildFile; fileRef = FA8F87DB1C4475D10095DEC7 /* yellow-ranger-21.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +43,27 @@
 		FA8F87B11C446D890095DEC7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA8F87B41C446D890095DEC7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA8F87B61C446D890095DEC7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA8F87C71C4475D10095DEC7 /* yellow-ranger-15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yellow-ranger-15.png"; sourceTree = "<group>"; };
+		FA8F87C81C4475D10095DEC7 /* yellow-ranger-16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yellow-ranger-16.png"; sourceTree = "<group>"; };
+		FA8F87C91C4475D10095DEC7 /* yellow-ranger-8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yellow-ranger-8.png"; sourceTree = "<group>"; };
+		FA8F87CA1C4475D10095DEC7 /* yellow-ranger-9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yellow-ranger-9.png"; sourceTree = "<group>"; };
+		FA8F87CB1C4475D10095DEC7 /* yellow-ranger-10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yellow-ranger-10.png"; sourceTree = "<group>"; };
+		FA8F87CC1C4475D10095DEC7 /* yellow-ranger-17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yellow-ranger-17.png"; sourceTree = "<group>"; };
+		FA8F87CD1C4475D10095DEC7 /* yellow-ranger-11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yellow-ranger-11.png"; sourceTree = "<group>"; };
+		FA8F87CE1C4475D10095DEC7 /* yellow-ranger-18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yellow-ranger-18.png"; sourceTree = "<group>"; };
+		FA8F87CF1C4475D10095DEC7 /* yellow-ranger-12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yellow-ranger-12.png"; sourceTree = "<group>"; };
+		FA8F87D01C4475D10095DEC7 /* yellow-ranger-19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yellow-ranger-19.png"; sourceTree = "<group>"; };
+		FA8F87D11C4475D10095DEC7 /* yellow-ranger-13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yellow-ranger-13.png"; sourceTree = "<group>"; };
+		FA8F87D21C4475D10095DEC7 /* yellow-ranger-20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yellow-ranger-20.png"; sourceTree = "<group>"; };
+		FA8F87D31C4475D10095DEC7 /* yellow-ranger-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yellow-ranger-1.png"; sourceTree = "<group>"; };
+		FA8F87D41C4475D10095DEC7 /* yellow-ranger-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yellow-ranger-2.png"; sourceTree = "<group>"; };
+		FA8F87D51C4475D10095DEC7 /* yellow-ranger-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yellow-ranger-3.png"; sourceTree = "<group>"; };
+		FA8F87D61C4475D10095DEC7 /* yellow-ranger-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yellow-ranger-4.png"; sourceTree = "<group>"; };
+		FA8F87D71C4475D10095DEC7 /* yellow-ranger-5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yellow-ranger-5.png"; sourceTree = "<group>"; };
+		FA8F87D81C4475D10095DEC7 /* yellow-ranger-6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yellow-ranger-6.png"; sourceTree = "<group>"; };
+		FA8F87D91C4475D10095DEC7 /* yellow-ranger-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yellow-ranger-7.png"; sourceTree = "<group>"; };
+		FA8F87DA1C4475D10095DEC7 /* yellow-ranger-14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yellow-ranger-14.png"; sourceTree = "<group>"; };
+		FA8F87DB1C4475D10095DEC7 /* yellow-ranger-21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yellow-ranger-21.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,10 +100,39 @@
 				FA8F87AC1C446D890095DEC7 /* ViewController.swift */,
 				FA8F87AE1C446D890095DEC7 /* Main.storyboard */,
 				FA8F87B11C446D890095DEC7 /* Assets.xcassets */,
+				FA8F87C61C4474BD0095DEC7 /* Images */,
 				FA8F87B31C446D890095DEC7 /* LaunchScreen.storyboard */,
 				FA8F87B61C446D890095DEC7 /* Info.plist */,
 			);
 			path = Animation;
+			sourceTree = "<group>";
+		};
+		FA8F87C61C4474BD0095DEC7 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				FA8F87C71C4475D10095DEC7 /* yellow-ranger-15.png */,
+				FA8F87C81C4475D10095DEC7 /* yellow-ranger-16.png */,
+				FA8F87C91C4475D10095DEC7 /* yellow-ranger-8.png */,
+				FA8F87CA1C4475D10095DEC7 /* yellow-ranger-9.png */,
+				FA8F87CB1C4475D10095DEC7 /* yellow-ranger-10.png */,
+				FA8F87CC1C4475D10095DEC7 /* yellow-ranger-17.png */,
+				FA8F87CD1C4475D10095DEC7 /* yellow-ranger-11.png */,
+				FA8F87CE1C4475D10095DEC7 /* yellow-ranger-18.png */,
+				FA8F87CF1C4475D10095DEC7 /* yellow-ranger-12.png */,
+				FA8F87D01C4475D10095DEC7 /* yellow-ranger-19.png */,
+				FA8F87D11C4475D10095DEC7 /* yellow-ranger-13.png */,
+				FA8F87D21C4475D10095DEC7 /* yellow-ranger-20.png */,
+				FA8F87D31C4475D10095DEC7 /* yellow-ranger-1.png */,
+				FA8F87D41C4475D10095DEC7 /* yellow-ranger-2.png */,
+				FA8F87D51C4475D10095DEC7 /* yellow-ranger-3.png */,
+				FA8F87D61C4475D10095DEC7 /* yellow-ranger-4.png */,
+				FA8F87D71C4475D10095DEC7 /* yellow-ranger-5.png */,
+				FA8F87D81C4475D10095DEC7 /* yellow-ranger-6.png */,
+				FA8F87D91C4475D10095DEC7 /* yellow-ranger-7.png */,
+				FA8F87DA1C4475D10095DEC7 /* yellow-ranger-14.png */,
+				FA8F87DB1C4475D10095DEC7 /* yellow-ranger-21.png */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,8 +195,29 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA8F87B51C446D890095DEC7 /* LaunchScreen.storyboard in Resources */,
+				FA8F87E51C4475D10095DEC7 /* yellow-ranger-19.png in Resources */,
+				FA8F87EA1C4475D10095DEC7 /* yellow-ranger-3.png in Resources */,
 				FA8F87B21C446D890095DEC7 /* Assets.xcassets in Resources */,
+				FA8F87EC1C4475D10095DEC7 /* yellow-ranger-5.png in Resources */,
+				FA8F87ED1C4475D10095DEC7 /* yellow-ranger-6.png in Resources */,
+				FA8F87E91C4475D10095DEC7 /* yellow-ranger-2.png in Resources */,
+				FA8F87E71C4475D10095DEC7 /* yellow-ranger-20.png in Resources */,
+				FA8F87EE1C4475D10095DEC7 /* yellow-ranger-7.png in Resources */,
+				FA8F87DF1C4475D10095DEC7 /* yellow-ranger-9.png in Resources */,
+				FA8F87E41C4475D10095DEC7 /* yellow-ranger-12.png in Resources */,
+				FA8F87DC1C4475D10095DEC7 /* yellow-ranger-15.png in Resources */,
+				FA8F87E61C4475D10095DEC7 /* yellow-ranger-13.png in Resources */,
+				FA8F87E31C4475D10095DEC7 /* yellow-ranger-18.png in Resources */,
+				FA8F87EF1C4475D10095DEC7 /* yellow-ranger-14.png in Resources */,
+				FA8F87F01C4475D10095DEC7 /* yellow-ranger-21.png in Resources */,
+				FA8F87DD1C4475D10095DEC7 /* yellow-ranger-16.png in Resources */,
+				FA8F87EB1C4475D10095DEC7 /* yellow-ranger-4.png in Resources */,
+				FA8F87E01C4475D10095DEC7 /* yellow-ranger-10.png in Resources */,
+				FA8F87E11C4475D10095DEC7 /* yellow-ranger-17.png in Resources */,
+				FA8F87E81C4475D10095DEC7 /* yellow-ranger-1.png in Resources */,
 				FA8F87B01C446D890095DEC7 /* Main.storyboard in Resources */,
+				FA8F87E21C4475D10095DEC7 /* yellow-ranger-11.png in Resources */,
+				FA8F87DE1C4475D10095DEC7 /* yellow-ranger-8.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
